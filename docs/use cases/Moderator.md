@@ -32,3 +32,8 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/bP91Ji9G68JtFSKxXzrm0LUUW8Jkn9fI5oPTq5PqOsH3C35klC6pM570UeMP6pc_JOqII6H1GcQ-DpClVRrHsa_IY-5fa1t7WoZfft6I1T-Y-oCTuG4DntXZpe8bAdZUE7XKB5e3Iycrp9nJnobM3XiqU44jrxTK66GdbwCq6bhWKnk6Mfntl3806vQSEURuD1TD5_EAjIegYHEdJ8-Fxk_QwiPACNN5QyvvxrWeqd3zj45imTiTWrY6MzTyt4QSX6S5c31pwgrDu8HpSLg1TnEz6C7_s1RkBFcX5YmFgsclkfIXFD6BRcU3gZrMIJ579rZi_mJxGbXQXEcvzj_zwWxrKkBpe1UT3VI4lW00)
 
+[User](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
+
+[Admin](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
+
+[Guest](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Guest.md)
