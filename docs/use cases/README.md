@@ -24,6 +24,9 @@
 
 
 
+![uml](http://www.plantuml.com/plantuml/png/VT2zIWD150NWVfxYiZQwuC0A8YiYWKXgctH262SJMKnsmkvD9O86xGGB8Qsl8D6LuC_w2kU-aJDiOsLtE0FV6MwlPbFnOZPLNF3KqQcnb-R27Gxx9wCzlQ_OpuazdNjcFwDnKJdBXI-LiUmhIl0aAxcLfJmaP6gQM3Nl08f0fZEwKaIBsbbJEqhITDWV7QJfMObdD7A31g_ub4UyuKMMs50C-9PLr0AHqLQU3mPvhgxLnDBkSUnKx8-qtkuqdVtdhV6EXi8Nxz26zo-qM7SJX9yGFj3y6SP6xdTKpvNZS95V)
+
+
 # Сценарій використання
 
 [Moder](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
