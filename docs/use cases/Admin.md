@@ -1,108 +1,101 @@
 # Адміністратор
 ***ID:*** UC_1.1
 
-  ***НАЗВА:*** Відправлення повідомлення модераторам.
+***НАЗВА:*** Створити новий набір даних
+    
+***УЧАСНИКИ:*** Адміністратор,Система
 
-***УЧАСТНИКИ:*** Адміністратор, система.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему
 
-***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+***РЕЗУЛЬТАТ:*** Набір даних створено
 
-***РЕЗУЛЬТАТ:*** Відправлено повідомлення модераторам.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 01AD Такий набір даних вже існує
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** Відсутні.
-
-***ОСНОВНИЙ СЦЕНАРІЙ:*** 
-
-![uml](http://www.plantuml.com/plantuml/png/VL5DIiD06DtFAJwwKl04PbFFu0c4TY6OAYOkX2ng8u8R2oBPwHccnS2GskaLthkHRqfKAjhTpFUzdpTlXaLvTbtUv1UkEXdbvvFARGVcZl661GAdy7mnT8ZuO6rOiCOxMiEIZGwR1C0IAxHO8nesYFrAX7wyvjmET8k9kLMS8NBA-Z2JpolyZzE_0ZrIpC0xT5-fv2b6fsG3FEya2Wawo5nrUbkKuxmIVnUmudoFd_sLD_jkIVLmfbL8hKY6ZKZt2IMUvmCRFXqP7n5DSHLP4crQ_IukoDBlUNLHNbwvuNWoqXzz0W00)
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/bP9DJi9G58NdNSLDt81EwGGINO4JfoGqIY9WIXsOC02gSMB00O74cJje2rZ2Jxk5UtVaEHOI8aBYxBtxpdVkpttbTb3rWyV6lTEfr1hrTk1NWvRVSNx2yYjOqW_DhAiBwrdVGaqqibVHI1Fh5m-Q8Zp7Oy-6OaDTydMcQnlhniR4e8eAjUjqhf_QWTUWyMTXgdDTQoJsJ06mq4PYFStvgXdjSXWkcGAMYO281FU8g4v98Sr4T0RP1jGBZzcstdmNoY5ESCcOuaI95he78tW_9XROnV1dO7HOr00X2m4lH6CUB0Jz9ffoW2oNpUWN45WN7U3W_YFb1aYgYOMaLpOi8Z6LdDRUL4wxyegIY0rslZ5KtJs74zi3IBS5XtiCtsukHNLpLgTJja119cmAF9MPJVvOh-iqMu4dVltsBf0ptwkLH7Ck4pbNbClLZPnVL2xnZLiFJjbhrl33lm40)
 
 
-***ID:*** UC_1.2
+***НАЗВА:*** Видалити набір даних
+    
+***УЧАСНИКИ:*** Адміністратор,Система
 
-  ***НАЗВА:*** Відправлення повідомлення користувачам.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему
 
-***УЧАСТНИКИ:*** Адміністратор, система.
+***РЕЗУЛЬТАТ:*** Набір даних видалено
 
-***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 02AD Набору даних з такою назвою не існує
 
-***РЕЗУЛЬТАТ:*** Відправлено повідомлення користувачам.
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** Відсутні.
-
-***ОСНОВНИЙ СЦЕНАРІЙ:*** 
-
-![uml](http://www.plantuml.com/plantuml/png/VL5DIiD06DtFAJwwKl04PbFFu0c4TY6OAcPS2BFGLXGt5aIoqpDCWuKXpSyLtdSZtuIeH6nsuNi_x-NDDBDdr_OclJ3kP9QUBvpf3cAEyO4DWjx1wvkWH8DALuADhl29hQ3Gd1zj9A303blKQ0GjcXwYe3_NkfQ3Q45oq7jTqgEWxnDHSWyJfht3_-RjjUcPkem-AB-xCPcAalqcU1tq2f4wIOmxlStiF7NK3maxNO_aoR-jFQhaPoyEHOYKk0-jDAVmeLDLP3zghYz7eiySXvKx8xeJ-ZjXOAmV-VFCNbwPwNmnusjz0G00)
+![uml](http://www.plantuml.com/plantuml/png/VP91IiD058RtESK3Bo0ksqqBUW8tRWi96Z299ED2o29j53T2N9G8xhp1D5hKDirSuNytyZsY86Ywoypxl-yDFvbaPfQQw-ZIowT-5CPXPjAPITBS6-4P7HVuu3alk4G3o_S4YuON_G3lNF9IXWyIgOWhR7J-XfPhxBXMK7Aspu-z_FGcCq6awfTUYpLQME9R3Q1L7V4SJgVeLETWiS5QH3KQ4iAIdAsYU5LArZoHxBJO2NMddzttYztFbPDm8uTEL-nv8fVZVsfu78gJ25UoGI-M97wBbMIANyyPx-SRAL6pMww63CEr_S4xWOkUm-UGBKvCG6buVc7e80ty4S5fBu9ijLWwEQF3e-cnbvdaofi4iI__nXS0)
 
 
 ***ID:*** UC_2.1
 
-***НАЗВА:*** Видалення.
+***НАЗВА:*** Створити нову категорію
+    
+***УЧАСНИКИ:*** Адміністратор
 
-***УЧАСТНИКИ:*** Адміністратор, система.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему
 
-***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+***РЕЗУЛЬТАТ:*** Категорія створена
 
-***РЕЗУЛЬТАТ:*** Модератора видалено з системи.
-
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-EX AD02MIN Модератора з таким ім'ям не існує.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 03AD Категорія з такою назвою існує
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/TPAxIWDH48RxVOeXjXPYcJG9Q66XZOsja4K3vaBsM0XR9Au8GY0Waiw8Rx2kMGtPoxx2p1lvpmH2XAG8XpFv_fbl3jiCtFNGtNVllB3LxdPweMS5ykeyvozUoeXZUIFEkUG5ftPzv5BF1fXtlO8Qyyeu70N8YbSIKOrVUObKp1aGOBM65ru-1CxlXjQ_idRFCa4aaKZplw0hfGc1cBZIltIkNW78amtF9MfiZEkOavWVSZ8X6rd8RAVrGBK_PCOBLAmpY9_ry6IZct6A3jD_lf-w9q8fsiPRi4ptFb2lxtmQTcvk7HqC_NPzlK-EPAOFHgTNr3evEZu_kzXQPeubHa1oax94ehwMD35LEoHvuP9alCVAPg1GQ1o_Ry2x9GFN7tXDlzV6L_07)
+![uml](http://www.plantuml.com/plantuml/png/VP91IiD058RtESK3Bo2uQpSjw0dSk2qqQC4caemB8GlRA6waTH4YkFC6usXfgSda2l-xaUyHtMZCRjxy__V_Zs56gPaavdf-6MJZwNmMpLAJJ4oSPC40B_1yYnqlUCav72m_42mSBri1Mywv4F5HB6lYDVQgVw3Y4ZMN2ehFjlvXa9tUf2QSQ_Hh6uiDAbZYEpMWqZZY1HfLuJMkWSKU6maguKW8Ip9RHV6kbDGyatHQr4BTwz5_RzpyN3LYTZ9uhUXPaVDXnpCy_MSdUBn9WruKX1eMMpZEEpOSzkRe20VrhhZuYw_wtkuNwxYKdWQ-FKbRtXaOnIQaP7P-OUWW2QS3KWOLTlXKEvsSqU7H-3X8JNmLZC9eAd_a2m00)
 
 
 ***ID:*** UC_2.2
 
-***НАЗВА:*** Реєстрація модератора.
+***НАЗВА:*** Видалити категорію
+    
+***УЧАСНИКИ:*** Адміністратор,Система
 
-***УЧАСТНИКИ:*** Адміністратор, система.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему
 
-***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+***РЕЗУЛЬТАТ:*** Категорія видалена
 
-***РЕЗУЛЬТАТ:*** Модератора зареєстровано в системі.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 04AD Категорія з такою назвою не існує
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-EX AD01MIN Модератора з таким іменем вже зареєстровано.
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-***ОСНОВНИЙ СЦЕНАРІЙ:*** 
-
-![uml](http://www.plantuml.com/plantuml/png/XL6zIiDW5Ds_fxZKrK7NPcb11mTTN5o51YtOLD8u21do8u9G42JKoO9l43J1KFFp2kU-aVSsGLG2Jj_zEUUUUxuxMdZdhdSpkpB-U3AREhxP5iWCyOAK8nGSOYDHGl9KgD5Wmp4Dy2p503ad77B40STuQmcaC4bglACcb19aWWkqYrhVWMNyqzk5PyzyqLcZsJRlUQayZbNh0oaQ4Oz8I2cXqPPEqLG0VAUZK79iVMy-n9FA8bCUBqc251MlUdVevbP_J0wGABQj_jxpLM5Ipb4gC-jmIUzuopXppoPtUd7fqOvhJuQjXn85FbMB3izeVB2tVtnqyiF0MhyIXVhYf7FDAsJA55wE2XK_xX8_e2OEUpSINFh_3ImvzFpQZ6nd8jV_0W00)
+![uml](http://www.plantuml.com/plantuml/png/VP8zJiD048Lxds8aBa11bJI912UWeOra2o9X6zbBWUI2n20QX2ai8z5nWsKXYfNuvmflRiIi7HeItEtCU--RqMWdiPf5wjQ_TfAfwy-3M4Kp5KQ9Cy8x6hv7oGjUSWe3pKy43SFBNi2QKyv5V1PBHfnXO_LlL5oWvi86nQTx_zX9pkzYvVaM_T5ZiK85JVpG0IkB8rwWjIeQYskXiS5AG0KCIKAJrBgBVjcKZ7aZcQbHI-hHFflTnkrlgnMpaQAn8mPMv7IyVuNN_zmal4-KNICdmMkiOJWziE1uc6DGYgYnvOpp_VZBmEd-PWqNKhPeTg-QquF085GUHVFBAqL7aUUEgCjK0jjQEvrTqF79zDI9LNZZJBp0bH_o0m00)
 
 
 ***ID:*** UC_3.1
 
-***НАЗВА:*** Створення набору даних.
+***НАЗВА:*** Створити нового модератора
+    
+***УЧАСНИКИ:*** Адміністратор,Система
 
-***УЧАСТНИКИ:*** Адміністратор, система.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему
 
-***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+***РЕЗУЛЬТАТ:*** Новий модератор створений
 
-***РЕЗУЛЬТАТ:*** Створено новий набір даних.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 05AD Такий модератор вже існує
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-EX AD03MIN Набір даних з таким ім'ям уже існує.
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-***ОСНОВНИЙ СЦЕНАРІЙ:*** 
-
-![uml](http://www.plantuml.com/plantuml/png/TP2nJiCm68HtFyMliZ8WiJLBAy7000iBAr8Yg4HIb9W1oKDfnC022-e64c_WHbH4eJ6lSFyRSMcbiD3D_k__pdSU5VOojtVfZN7ZE9rapcm6OePunnArpk3rLT32umkLbX6LDyxcr1xGRDM6Ui0F6YrbW0-A5GBHkblRmajTw4pmoMFB-UCWCkxylh19wkZO8_fClt-1o6HJcqW-kRgsifSdyL3uOi0QDRwx879y8UEZWyFJaxE-35lel0k2jPPqtX2LBcXBajoAvgs-x8i-8GWRiHMph2XwNl-QSDVl2bROwQqP9LdCV_m5)
+![uml](http://www.plantuml.com/plantuml/png/dLDDIiDW4Dtd50DUm8sRTjE2di2DsqA35cmhoUT2wCB-g1jfNKW4TzxWQpGqnEJB5TxSo1bIKJJfeej2lvdtthnvGpgXwGNcUdZfJRhzuM0q24tGC-DWuhNm2iUtI7dACvuZXkK7WaNCiwg13S_vMPgF0baHhv1f_mCvHoWuKgBWR8LlUvFJcz3uGvL-gsIH88SbNYW0kSeHJr5g5qxbIbXaI4GeGap2i2HlgrIyAql6l93Cj2Y4TQT_tTPn-Lqg1HpBm-c87HPvtgw9uQa9Jd1O8zM2-bx8o08PtmjkIUf3VWfD2JdqaVnmOVVB8_j_aoeP2PyZGe64X5Gt4BawiLZ3_Se0LhN-ulRFeTRYpcsnsSekTLkjMsNob5HNLVLqUkq6RT8j6Z8UZOrFmU3ymj11uFTRX19EDyGdCc6TdD7XKVVO2ytuokluexvy2by0)
 
 
 ***ID:*** UC_3.2
 
-***НАЗВА:*** Видалення набору даних.
+***НАЗВА:*** Видалити модератора
+    
+***УЧАСНИКИ:*** Адміністратор,Система
 
-***УЧАСТНИКИ:*** Адміністратор, система.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему
 
-***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+***РЕЗУЛЬТАТ:*** Новий модератор створений
 
-***РЕЗУЛЬТАТ:*** Видалено набір даних.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 06AD Такий модератор не існує
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-EX AD04MIN набора даних з таким ім'ям не існує.
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-***ОСНОВНИЙ СЦЕНАРІЙ:*** 
-
-![uml](http://www.plantuml.com/plantuml/png/RP2_IiDG58VtynI7kZeuE2LB2peuwEBYAYHemQIIN0SXGqrmS2f8wARFS1igXln9N-5ttiXZBbYG3dVvVlSRlZDDpMrYdg87ocP1D8yp6W6JXqziKCiILaf63ujlL5BukdmeotLxGUFMHlS1EpHIy0JlgB65HOlwzvkJDxAM9O-yL_uwyIcxVavD66NaxHLPIVbFg9pWKxmm8IVpktl3HqaOU8mT1dIgjcXW-Vo6PsSdfvSNLtynMY6vDjJef93I6PMiiHtD5b_eqSlgcEKD0skHLackk8DbLFiIVVPmYK-fMJpID8m3lUCF)
+![uml](http://www.plantuml.com/plantuml/png/dL8xJiD04ErzYf6u01L5qYGId826Db8iY4GIP2y5KWeI1sXGGe62HCSDDWOhAsElh_3cHip8GI1XKgJpphpFs-VjnAONcUlXPJ3fzeU3qI0sKS-CeqdGmYiytyBnb6US88Nb1u95ohDwWGqd_2pBHu4iYPV8TV-1WbSeUQL4mTaQtmucfpUn2OSg_LRB8aC1IpnN00gL8vwYqYsyobMmo969q0ef2SEIdArIyQuiiNaXyRGeXNMddtwRkFeULG9EvU3LOaT4JjeDDJpz1oTuhE5qeBddObaYvtl1BKWC7JJM9vp07Q60bq7smuVTfvC68Urc_-IDoRHbhnHuxPcmvaGnl--LQQKxhe3DrdqX9ZfNURdFbDHUNL3MyiqHPAiv_hv2BMuqDY55W_CBGmTHs6yHAls_S18i5zx96HqUTO-3s8olWauuwiiR_m80)
 
 [Модератор](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
 
