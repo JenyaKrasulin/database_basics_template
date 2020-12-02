@@ -50,9 +50,9 @@
 
 
 
-***ID:*** UC_2.1
+***ID:*** UC_2.2
 
-***НАЗВА:*** Видалити модератора
+***НАЗВА:*** Створити нового модератора
     
 ***УЧАСНИКИ:*** Адміністратор,Система
 
@@ -60,11 +60,11 @@
 
 ***РЕЗУЛЬТАТ:*** Новий модератор створений
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 06AD Такий модератор не існує
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 05AD Такий модератор вже існує
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/dL8xJiD04ErzYf6u01L5qYGId826Db8iY4GIP2y5KWeI1sXGGe62HCSDDWOhAsElh_3cHip8GI1XKgJpphpFs-VjnAONcUlXPJ3fzeU3qI0sKS-CeqdGmYiytyBnb6US88Nb1u95ohDwWGqd_2pBHu4iYPV8TV-1WbSeUQL4mTaQtmucfpUn2OSg_LRB8aC1IpnN00gL8vwYqYsyobMmo969q0ef2SEIdArIyQuiiNaXyRGeXNMddtwRkFeULG9EvU3LOaT4JjeDDJpz1oTuhE5qeBddObaYvtl1BKWC7JJM9vp07Q60bq7smuVTfvC68Urc_-IDoRHbhnHuxPcmvaGnl--LQQKxhe3DrdqX9ZfNURdFbDHUNL3MyiqHPAiv_hv2BMuqDY55W_CBGmTHs6yHAls_S18i5zx96HqUTO-3s8olWauuwiiR_m80)
+![uml](http://www.plantuml.com/plantuml/png/dLDDIiDW4Dtd50DUm8sRTjE2di2DsqA35cmhoUT2wCB-g1jfNKW4TzxWQpGqnEJB5TxSo1bIKJJfeej2lvdtthnvGpgXwGNcUdZfJRhzuM0q24tGC-DWuhNm2iUtI7dACvuZXkK7WaNCiwg13S_vMPgF0baHhv1f_mCvHoWuKgBWR8LlUvFJcz3uGvL-gsIH88SbNYW0kSeHJr5g5qxbIbXaI4GeGap2i2HlgrIyAql6l93Cj2Y4TQT_tTPn-Lqg1HpBm-c87HPvtgw9uQa9Jd1O8zM2-bx8o08PtmjkIUf3VWfD2JdqaVnmOVVB8_j_aoeP2PyZGe64X5Gt4BawiLZ3_Se0LhN-ulRFeTRYpcsnsSekTLkjMsNob5HNLVLqUkq6RT8j6Z8UZOrFmU3ymj11uFTRX19EDyGdCc6TdD7XKVVO2ytuokluexvy2by0)
 
 ***ID:*** UC_3.1
 
