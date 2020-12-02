@@ -97,6 +97,10 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/dL8xJiD04ErzYf6u01L5qYGId826Db8iY4GIP2y5KWeI1sXGGe62HCSDDWOhAsElh_3cHip8GI1XKgJpphpFs-VjnAONcUlXPJ3fzeU3qI0sKS-CeqdGmYiytyBnb6US88Nb1u95ohDwWGqd_2pBHu4iYPV8TV-1WbSeUQL4mTaQtmucfpUn2OSg_LRB8aC1IpnN00gL8vwYqYsyobMmo969q0ef2SEIdArIyQuiiNaXyRGeXNMddtwRkFeULG9EvU3LOaT4JjeDDJpz1oTuhE5qeBddObaYvtl1BKWC7JJM9vp07Q60bq7smuVTfvC68Urc_-IDoRHbhnHuxPcmvaGnl--LQQKxhe3DrdqX9ZfNURdFbDHUNL3MyiqHPAiv_hv2BMuqDY55W_CBGmTHs6yHAls_S18i5zx96HqUTO-3s8olWauuwiiR_m80)
 
-[Модератор](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
+[Moder](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
 
-[Користувач](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
+[User](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
+
+[Admin](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
+
+[Moder](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
