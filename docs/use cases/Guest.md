@@ -47,3 +47,9 @@
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 ![uml](http://www.plantuml.com/plantuml/png/VP4zJiD048NxFSL8j2aGfTsaGJb06bgaM8144cHl2YGN_b54WvA2oDJSm8HOGOwzkSBCZNWxGX5Dg2pFllVjUxF3nDx6TZ5zDEbe4IKsDJeW4_2RL99B8Q_4ZZ_vMpAkPKEynoVZHZPwcad9MqmA279PXoOTFoSscgOWVEYiu8Oxhedu21USt7FDHu-3yo1h3stPOQ3oN-0BB5v9Yi2fLFXjfIJUUPS60T91tIkqzyCTXZr0o_3KAFYhb1MkKqtBZR_idyJi840gxgJqBcLBTIRjuDHlAvLasWieOFPONwC5ldI5yYxB0TOXoe3VQIgSEaMkj3Eae4j-vhhGpEOselZXxjxIHHnD0jAE7V8UOAdf-eOkhqPZlEZyoGoZsGJF_0C0)
+
+![User](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
+
+![Admin](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
+
+![Moder](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
