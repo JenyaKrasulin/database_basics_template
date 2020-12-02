@@ -35,7 +35,7 @@
 
 
 
-![uml](http://www.plantuml.com/plantuml/png/XS-nIWD14CRnVfxYuspqm8MpMn49H5BRf1F2kjd8ON8RRYUL24bi1GibleO40XO-nCmRkMiUm6xc3_E36IHsFQyMS-AMvm6tpZ-wXt0v7jvCBembZajmn7raZWjCspvuRcD7pdFiKScxxdIZMtsju19cdfP700LeJ8Cd0bOfU9S2gheU3oUshkyw-PGlNSj1F_xEr_eY-rosyfttju9beS69jQEHjVHCCu_pwzAez2jZJe-OQVxd87lefiov7EH7TsSq2Dqql_qB)
+![uml](http://www.plantuml.com/plantuml/png/XS-nIWD14CRnVfxYuspqmCMrMn49H5BRf1F2kjd8ON8RRYUL24bi1GibleO43YnyY9qtSbVjqytyONumWyYsuzLYJjpmtEF6kWTxxo_6m-l9kJB4OGaEk0lCOO5fqtd7JMZ9EWuTglGcEzd8Lbugs8YPe-KVW09efV58m2fwPwD7LTVZuKIVrVLjcpxIfwnJB--_zsjvJljSjkahxwz5ouJ6aJ6ZaJ7qH3E7qwlIgFHBfOx_DQKFUqXxoARCkVJfMtOdDF3jD3_-0m00)
 
 # Сценарій використання
 
