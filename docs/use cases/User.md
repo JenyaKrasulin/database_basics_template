@@ -1,57 +1,53 @@
 ### Сценарії для користувача 
 
 ***ID:*** UC_6.1
+***НАЗВА:*** Запронувати пакет даних 
     
-***НАЗВА:*** Додавання фотографій до бази.
-    
-***УЧАСНИКИ:*** Користувач, система
+***УЧАСНИКИ:*** Користувач,Система
 
-***ПЕРЕДУМОВИ:*** Відсутні
+***ПЕРЕДУМОВИ:*** Користувач зареестрований
 
-***РЕЗУЛЬТАТ:*** Фоту було додано до бази.
+***РЕЗУЛЬТАТ:*** Користувач загрузив пакет даних .
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-EX USE01R Невірно вибрано формат фото.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 01US Дані не задовільного формату
 
-**ОСНОВНИЙ СЦЕНАРІЙ:** 
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/ZL4xJiD05EnzYgVGKa0RDsbo0Q98j4Yn08aao345aWloGQ5BOr4W8QvWp5gOuCyLvjs8sQnmW8h2qdXtFlFUzcRHMHZTZA-yU3WBmjZR_OlNnJDINQ3GERP4YQ12AiGLQZJOwb8wI8YDuuckK1FK7T-B1xUpA1Z7T4cSrl1khWjTed56C4wAZ5-5IZUj0TxqZggLFkB3_wxLnHDgdXVEnifqBII_yiZIarP_ABfXprpqdWTh0fXzJ_-Vexqmtf2L8QU_8PkAlxFHzLVqBadOASMxZPfCeq32o_EBI0x2ODGLDDIKAF1fewL_AiD1_-ZuP3ycVUoOA7MfYUDdjehLKPMxPV62h5eOcdFU1mldRZcab3yMJ4tQzlFvlDDhhnTCHdpoBm00)
+![uml](http://www.plantuml.com/plantuml/png/XLDDJi905DxFALxq0hgb6pQUW92uDQ5H4m5JwiAa2omnRWnk32JklC5GMqMWvGflRkJtfIb1QtNLDs_c-tdVTDgZy2m8R_fN9kgE_20oN8TYMlgYXHlhqjsvs4qqKUiUH7DyOZPrXUfPyCcrqAskt4GEHETgTGiOMuNc19O8GSFYTEPYqHHb3fPxyKpKkHs5VZ-2uckfffbkr1AGWIcZffBJWcljdahLcZSYS5BOuwwROKbNcX8b-a422cFVwZjnN6dEpPqZhygX8O125sYDg-4jxUfRAUYcGaLDEUw2XPi0-rZJ1eIwir8NnHyni0IM0bDgCkw4OwrGR20wBgTCXDxeZ8Jw-Mj8vApRdlypT3qw6jdTfoxtyskU1CmnkU6Q1EGYzK8pke0RsqoB-N0aRRXvpmo6eI_1vVb5A8U1tsk1X_50RCrnvUHKZewxdUQVBFsX_arx0wwK1naS3J3mV1-UL1VX6RoWuRLf-uCUNjKN)
 
 
 ***ID:*** UC_7.1
     
-***НАЗВА:*** Заповнення анкет.
+***НАЗВА:*** Авторизуватися як Модератор
     
-***УЧАСНИКИ:*** Користувач, система
+***УЧАСНИКИ:*** Користувач,Система
 
-***ПЕРЕДУМОВИ:*** Відсутні
+***ПЕРЕДУМОВИ:*** Користувач зареестрований як модератор
 
-***РЕЗУЛЬТАТ:*** Об'ява була додана до бази.        
+***РЕЗУЛЬТАТ:*** Користувач стає модератором .
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-Відсутні.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 01AV Модератора з такими даними не існує
 
-**ОСНОВНИЙ СЦЕНАРІЙ:**
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/ZP5DIiH048NtEKKn6pUUOBAPEuW74CpEKPd4XP25auYw40CoZ22eL-W92OR9ZrTuTIDVDGJZRXQXAzsltgkFMiJ9sIgvMLu4wMaShTB0_qimnmUSPcXqZJshZQ274zOz1lnWhxdCy0R7Ua39syRKelSOz0wTvhCmI4zkuoHQfdHxrIqgUZLepMsY4rHejH1yJyngVhqMuJZL7EzUpt4qqvmQfu_2esH3PTdwB8peHr--F-XMNqGpE4PusOZ1g5Bpy438BpzwngYQpZuCpN-wpP_zWDsH5kRlKmKxdzTCK3urCnI3jmxFR1ayExGZEn-e6WoWFXPzid9jeze5kWaLUzmqEEGIhww3HNHvpiN-0W00)
+![uml](http://www.plantuml.com/plantuml/png/XPAnIiH048RxVOe1MmjjByrP-0IYs0eNLF3k95aB8ONc4B5A8odiV8CGidZaRdElyCyRESE026UGA_Pczll_VtOtqznVPVvXVkUAyppD2ZV11mP-mfgVkUGLMZJyIeYobDf4B__UIPQ80Jlql28qQBaq6RvCP3HNn1LwmbRW3a68niZ45MUFkK_d6lbfSGZ2DIIk2WODnKubOhZXocBtXbE5aAGztUKQqSRgL4LevHUaKCEeZKuSevYy9EFPBTTYfPc6Sqq_DbByFObu7Efv-Gs3wNwXGVhbg9QqiAlTkoiCoUZp_A_5Dd6BfKyfkxs-yNIGfRE9dbCsiCP67vHEB-de-EJ2vNvvxwRfOYPVn3S0)
 
 
 ***ID:*** UC_8.1
     
-***НАЗВА:*** Перегляд уже готових об'яв.
+***НАЗВА:*** Авторизуватися як Адміністратор
     
-***УЧАСНИКИ:*** Користувач, система
+***УЧАСНИКИ:*** Користувач,Система
 
-***ПЕРЕДУМОВИ:*** Відсутні
+***ПЕРЕДУМОВИ:*** Користувач зареестрований як адміністратор
 
-***РЕЗУЛЬТАТ:*** Об'ява була переглянута.
+***РЕЗУЛЬТАТ:*** Користувач стає адміністратором .
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
-Відсутні.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX 02AV Адміністратора з такими даними не існує
 
-**ОСНОВНИЙ СЦЕНАРІЙ:**
+***ОСНОВНИЙ СЦЕНАРІЙ:***
 
-![uml](http://www.plantuml.com/plantuml/png/fL8zJeH06Etd59DjR3o1D7i7um5Cf7FLB5YOK2oBkfqcPaDXebu1SSOGTXckyBuR-M0m6oAT5VFzl9_tXNaKdo_ZsyMbIiwYS9celjRg16yeP8rAKjHyRJKQ59hl1WujQidq31-mieB55tRoZ4Qo3g5HuXjMIohtS9pluTWgECyrdvz7t2rHpGALdDv5SRX8l1oC5p9mnAubGpkejYCTSs091jiaUEsrgW59FTdqUsojM3mTG98TQtwx2F90r0QM4bDHWl_SOPplHN8OabJOUPhwhryobBmHDvlVqx7zA7ddlcNf9aEm8A8VTL57LtadErMmfwVj9BE76osfDmFB6PD7yVMDceTN5_mvVW00)
+![uml](http://www.plantuml.com/plantuml/png/bPAnIiH048RxFCM0hOLONfgpy0b4iHKkgE3TIR8MGWhD8MALHhQmymr2IF38PPDN-EUDd74A1KrXjM7s_x__p-xECtUHkhlbJPIVPacQHpEyOU07RFcH2zwWHiNFX21BeKDqylLAiWGC6D7nXb2Xvi9i-32JgRaaBj6fea7F7e6zWaLPcIEEyfFxp2LBZNwtMBJeKP7GMn6s6evHBGBUSMdnlqggGvIaCztLDAlNg8j4LGki-G867JH2309vYgUpQ_Q2qaoJiwTl3Fk_cmXZN_-RNp3yy9cqbNanwRNwUiJJPuO1VJnzOV-YhDOkeVJwyihHNfeiPeHHDx35Jg-QZi_fuF3eBChS-ZQQ9wk5l9LF)
 
 [Адмін](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
 
