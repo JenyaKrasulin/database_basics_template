@@ -1,4 +1,5 @@
 # Проєктування бази даних
 
-*В рамках проекту розробляється модель бізнес-об'єктів, ER-модель та реляційна схема.*
+## Модель бізнес-об'єктів
 
+![uml](http://www.plantuml.com/plantuml/png/TP91IyCm5CVl-HIXfwqiuEuYatdn88ZeERorRrqWQKhoglRRcxZ4sQsvjA__to_m-ASxJ-1eD9ez0O57gbRRpNPTtGl1gzNTfbvN_0K9sa3BIWH7fP7pilFODEXzcU-jCTXJ5b8gn0DFxXu8E-kcRF0w74wpx4RLicm4a4TPY7imk0ZyW8qwgWP8sPwnj5Mk8fXvdKGaZ7IoBej1oE1WssaX7i255sEXLOojXWs5g7F7b_WJz8Z_2SijorUW4mzeLdjYpmOwBC5t_AOhnZuyEgbjf_f8UFmyPmDu_sLTEq_HWDBpIFqfbntvxVqbu_mV572YIwVVh4R6ulFt5k8W6nZWeBGYXVuAqJGWss7VZaR_0000)
