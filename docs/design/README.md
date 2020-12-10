@@ -9,4 +9,4 @@
 
 ## Реляційна схема
 
-![alt text]()
+![alt text](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/image_2020-12-09_00-56-44.png)
