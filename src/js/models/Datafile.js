@@ -16,15 +16,15 @@ Datafile.init(
         name: {
             type: Sequilize.STRING(1000),
             allowNull: true
-        }
+        },
         userlogin: {
             type: Sequilize.STRING(1000),
             allowNull: true
-        }
+        },
         dataset: {
             type: Sequilize.INTEGER,
             allowNull: true
-        }
+        },
     },
     {
         sequelize: connection,
