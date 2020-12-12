@@ -27,7 +27,7 @@ Access.init(
         Dataset_GUID: {
             type: Sequilize.INTEGER,
             allowNull: true
-        },
+        }
     },
     {
         sequelize: connection,
