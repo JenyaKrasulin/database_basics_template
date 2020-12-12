@@ -23,11 +23,11 @@ Access.init(
         User_login: {
             type: Sequilize.INTEGER,
             allowNull: true
-        }
+        },
         Dataset_GUID: {
             type: Sequilize.INTEGER,
             allowNull: true
-        }
+        },
     },
     {
         sequelize: connection,
