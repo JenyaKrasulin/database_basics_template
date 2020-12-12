@@ -37,7 +37,7 @@ Access.init(
 );
 
 User.hasMany(Access);
-Project.hasMany(Access);
+Datafile.hasMany(Access);
 
 Access.belongsTo(User, {
     foreignKey: 'user_id'
