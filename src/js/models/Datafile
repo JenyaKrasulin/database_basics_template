@@ -1,0 +1,36 @@
+const connection = require('../connection');
+const Sequilize = require('sequelize');
+
+class Datafile extends Sequilize.Model {}
+
+Project.init(
+    {
+        id: {
+            type: Sequilize.INTEGER,
+            primaryKey: true
+        },
+        MIME: {
+            type: Sequilize.STRING(500),
+            allowNull: false
+        },
+        name: {
+            type: Sequilize.STRING(1000),
+            allowNull: true
+        }
+        User_login: {
+            type: Sequilize.STRING(1000),
+            allowNull: true
+        }
+        Dataset: {
+            type: Sequilize.INTEGER,
+            allowNull: true
+        }
+    },
+    {
+        sequelize: connection,
+        freezeTableName: true,
+        modelName: 'Datafile'
+    }
+);
+
+module.exports = Datafile
