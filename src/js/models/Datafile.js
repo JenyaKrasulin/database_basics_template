@@ -3,7 +3,7 @@ const Sequilize = require('sequelize');
 
 class Datafile extends Sequilize.Model {}
 
-Project.init(
+Datafile.init(
     {
         id: {
             type: Sequilize.INTEGER,
