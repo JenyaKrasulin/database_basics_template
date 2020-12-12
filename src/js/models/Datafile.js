@@ -17,11 +17,11 @@ Datafile.init(
             type: Sequilize.STRING(1000),
             allowNull: true
         }
-        User_login: {
+        userlogin: {
             type: Sequilize.STRING(1000),
             allowNull: true
         }
-        Dataset: {
+        dataset: {
             type: Sequilize.INTEGER,
             allowNull: true
         }
