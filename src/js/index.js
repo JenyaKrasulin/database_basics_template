@@ -21,14 +21,14 @@ const DatafileMapper = (Datafile) => {
         include: [{
             model: models.User,
             through: {
-                attributes: ['role']
+                attributes: ['role_name']
             }
         }]
     });
     Datafile.map(project => {
         console.log('#' + Datafile.id + ' | ' + Datafile.name);
         Datafile.users.map(user => {
-            console.log(user.id + ' | ' + user.login + ' | ' + user.project_user.dataValues.role);
+            console.log(user.id + ' | ' + user.login + ' | ' + user.project_user.dataValues.role_name);
         });
     })
 })();
